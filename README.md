@@ -1,0 +1,1 @@
+this is my first directory in alx software engineering and it aims at teaching how to git init from your local machine, connect it with a repository an github bu adding the remote branch as the url of the repository,git add, commit and push to the romote repository
