@@ -1,0 +1,1 @@
+create a file 0-hello_ubuntu and write the what you get when you run the 'uname' command in your terminal
